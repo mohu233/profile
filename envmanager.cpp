@@ -131,3 +131,4 @@ void EnvManager::initBrowserComboBox(QComboBox *comboBox)
         comboBox->setCurrentIndex(0);
     }
 }
+#include "moc_envmanager.cpp"

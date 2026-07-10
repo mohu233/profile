@@ -1,6 +1,6 @@
 import os, re
 
-fp = r"E:\Documents\untitled2\mainwindow.cpp"
+fp = r"E:\Documents\untitled3\mainwindow.cpp"
 with open(fp, "rb") as f:
     data = f.read()
 
